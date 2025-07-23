@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+<string name="app_name">login-dashboard-flutter</string>
+<string name="facebook_app_id">3720431341592465</string>
+<string name="fb_login_protocol_scheme">fb3720431341592465</string>
+<string name="facebook_client_token">2aa3f2b270a8b6ec93a5d7a143e746f3</string>
+</resource>
