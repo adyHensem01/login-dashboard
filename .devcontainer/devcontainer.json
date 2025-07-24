@@ -1,15 +1,1 @@
-{
-  "name": "Flutter Dev Container",
-  "build": {
-    "dockerfile": "Dockerfile"
-  },
-  "customizations": {
-    "vscode": {
-      "settings": {},
-      "extensions": [
-        "Dart-Code.flutter"
-      ]
-    }
-  },
-  "postCreateCommand": "flutter doctor"
-}
+
